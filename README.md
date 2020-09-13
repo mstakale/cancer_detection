@@ -2,4 +2,4 @@ This repository contains various feature processing and CNN mode training for my
 
 'A comparative study of image feature descriptors to classify leukemia cancer cells from the microscopic images using deep learning'
 
-https://github.com/mstakale/master_thesis_2020/blob/master/u865929_mstakale_MasterThesis_v1.pdf
+https://github.com/mstakale/cancer_detection/blob/master/u865929_mstakale_MasterThesis_v1.pdf
